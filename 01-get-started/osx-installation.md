@@ -48,6 +48,9 @@ export PATH=${HOME}/go/bin:$PATH
     1. Type: `shell`
     2. Select: _"Install 'code' command in PATH"_
         1. **NOTE:** You don't have to do this if you're on Windows.
+5. Test
+    1. Type: `shell`
+    2. Type: `go` Command
 
 ## That's all! Enjoy! 🤩
 
